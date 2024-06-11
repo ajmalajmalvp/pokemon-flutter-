@@ -1,16 +1,23 @@
-# pokemon
+Run Pokemon
 
-A new Flutter project.
 
-## Getting Started
+Images 
 
-This project is a starting point for a Flutter application.
+![WhatsApp Image 2024-06-11 at 08 45 25_34e479aa](https://github.com/ajmalajmalvp/pokemon-flutter-/assets/109466213/0cb0719b-c06f-417e-bc9f-b11faec937f4)
 
-A few resources to get you started if this is your first Flutter project:
+![WhatsApp Image 2024-06-11 at 08 45 36_3e7bc108](https://github.com/ajmalajmalvp/pokemon-flutter-/assets/109466213/56a1b178-78e4-4c28-bdd1-0f34214ea929)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Run pokemon
+
+flutter clean
+flutter pub get
+flutter run 
+
+
+flutter -version  3.22.0
+
+
+
+    

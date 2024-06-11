@@ -1,5 +1,11 @@
 Run Pokemon
 
+flutter clean
+flutter pub get
+flutter run 
+
+
+flutter -version  3.22.0
 
 Images 
 
@@ -9,14 +15,7 @@ Images
 
 
 
-Run pokemon
 
-flutter clean
-flutter pub get
-flutter run 
-
-
-flutter -version  3.22.0
 
 
 

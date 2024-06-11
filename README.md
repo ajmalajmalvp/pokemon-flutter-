@@ -1,5 +1,9 @@
 Run Pokemon
 
+Terminal cammand:
+
+cd pokemon
+
 flutter clean;
 flutter pub get;
 flutter run
